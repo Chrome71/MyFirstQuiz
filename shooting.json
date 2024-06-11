@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Disguise to steal information.",
+    "answer": "phishing"
+  },
+  {
+    "question": "Controlled compromised computer network.",
+    "answer": "botnet"
+  },
+  {
+    "question": "Hidden authentication bypass method.",
+    "answer": "backdoor"
+  },
+  {
+    "question": "Data encryption for ransom.",
+    "answer": "ransomware"
+  },
+  {
+    "question": "Malware hiding software.",
+    "answer": "rootkit"
+  },
+  {
+    "question": "Protect data confidentiality.",
+    "answer": "encryption"
+  },
+  {
+    "question": "Multi-factor authentication method.",
+    "answer": "multi-factor"
+  },
+  {
+    "question": "Unknown vulnerability exploit.",
+    "answer": "zero-day"
+  },
+  {
+    "question": "Denial of service attack.",
+    "answer": "DDoS"
+  },
+  {
+    "question": "Manipulating people for information.",
+    "answer": "social engineering"
+  },
+  {
+    "question": "Disguised malicious software.",
+    "answer": "trojan"
+  },
+  {
+    "question": "Database attack technique.",
+    "answer": "SQL injection"
+  },
+  {
+    "question": "Secure internet protocol.",
+    "answer": "SSL"
+  },
+  {
+    "question": "Private network over internet.",
+    "answer": "VPN"
+  },
+  {
+    "question": "Block unauthorized access.",
+    "answer": "firewall"
+  }
+]
