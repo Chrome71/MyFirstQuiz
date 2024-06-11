@@ -3,10 +3,10 @@ import random
 import json
 import os
 
-# Initialize Pygame
+
 pygame.init()
 
-# Constants
+
 WIDTH, HEIGHT = 1000, 700
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
